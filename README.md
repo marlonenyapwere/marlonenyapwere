@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/marlonenyapwere">
-    <img src="https://img.shields.io/badge/Home-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Home-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://marlonenyapwere.github.io/">
-    <img src="https://img.shields.io/badge/Website-Online-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="mailto:marlonenyapwere@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/marlone-nyapwere-616329215">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
