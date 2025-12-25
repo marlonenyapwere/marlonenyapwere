@@ -3,10 +3,10 @@
     <img src="https://img.shields.io/badge/Home-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://marlonenyapwere.github.io/">
-    <img src="https://img.shields.io/badge/Website-WWW-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-Online-white?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="mailto:marlonenyapwere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/marlone-nyapwere-616329215">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,9 +23,8 @@
 </p>
 
 <p align="center">
-Hi there 🤗 I am Marlone — a Graduate Student in Computer Science @ <code>GWU</code> & Software Engineer.<br>
+Hi there 🤗 I am Marlone — a Graduate Student in Computer Science at George Washington University & Software Engineer.<br>
 I’m interested in backend systems, distributed systems & cloud-native architectures ☁️.<br>
-I work mainly with <code>Java</code>, <code>Spring</code> & system-oriented backend design ⚙️.<br>
 Currently learning performance, scalability & low-level systems concepts 🧠.<br>
 Here, I document my learning in systems, algorithms & scalable software — growth in public 🚀.
 </p>
