@@ -26,5 +26,5 @@
 Hi there 🤗 I am Marlone — a Graduate Student in Computer Science at The George Washington University & Software Engineer.<br>
 I’m interested in backend development, distributed systems & cloud-native architectures ☁️.<br>
 Currently learning performance, scalability & low-level systems concepts 🧠.<br>
-Here, I document my learning in systems, algorithms & scalable software — growth in public 🚀.
+Here, I document my learning in systems, algorithms & scalable software 🚀.
 </p>
