@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Home-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://marlonenyapwere.github.io/">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:marlonenyapwere@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
